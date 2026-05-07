@@ -39,7 +39,7 @@ L'API integra dati esterni e un database locale per offrire risposte più mirate
 
 ---
 
-## 🌐 Base URL
+## Base URL
 
 ```
 http://localhost/
